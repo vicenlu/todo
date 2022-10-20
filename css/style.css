@@ -80,7 +80,7 @@ p > button:hover {
 li {
   overflow: hidden;
   padding: 20px 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid tomato;
 }
 li > input[type="checkbox"] {
   margin: 0 10px;
